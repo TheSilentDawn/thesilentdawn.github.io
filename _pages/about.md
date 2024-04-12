@@ -9,8 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Dreese Lab 252</p>
-    
+    <p>Dreese Lab 252,</p>
     <p>2015 Neil Ave</p>
     <p>Columbus, OH, USA</p>
 
