@@ -44,3 +44,14 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
     # image: ./assets/img/teaser_example.pngs
+
+  - title: "面向HTTPS的内容分发网络代理关系透明化(Delegation Transparency for HTTPS with CDNs)"
+    authors: 王泽, <strong>李文强</strong>,蔡权伟
+    # conference_short: NDSS
+    conference: 信息安全学报(Journal of Ceber Security), 第3卷第2期, 2018.03.
+    pdf: https://jcs.iie.ac.cn/ch/reader/create_pdf.aspx?file_no=20180202&flag=1&year_id=2018&quarter_id=2
+    # code: https://github.com/MCUSec/para-rehosting
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    # image: ./assets/img/teaser_example.pngs
